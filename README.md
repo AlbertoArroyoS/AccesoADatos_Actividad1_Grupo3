@@ -23,7 +23,7 @@ La actividad la he realizado según la ultima clase, siguiendo el modelo de 3 ca
 
 En la **entidad** tengo el JavaBean Articulo, que siguiendo el convenio tiene los atributos privados, el constructor por defecto y los getters/setters públicos.
 
-En la **capa de presentación**, la clase VistaUsuario, tengo la capa visual de la aplicación, que consta de un menú para que el usuario final interactúe con el y llamará a los métodos que tengo en la lógica de negocio.
+En la **capa de presentación**, la clase VistaUsuario, tengo la capa visual de la aplicación, que consta de un menú para que el usuario final interactúe con él , de la clase OpcionesVistaUsuario en el que están los métodos del menú y que están en contacto con la lógica de negocio.
 
 ![Imagen](imgReadme/image3.png)
 
